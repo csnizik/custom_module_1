@@ -1,6 +1,6 @@
 {
   "name": "pods/custom_module_1",
-  "description": "This is just a demo module that does nothing.",
+  "description": "This is just a demo module that does nothing. But it does it oh so well.",
   "type": "drupal-custom-module",
   "license": "GPL-2.0-or-later",
   "require": {
